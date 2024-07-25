@@ -33,7 +33,7 @@ const Banner = () => {
         </button>
       </div>
       <div className="bg-none border-white border-[3px] bg-opacity-75 p-6 text-3xl text-white">
-      Meet Chef Matt
+      Meet Chef Matts
       </div> ̰
     </div>
   );
