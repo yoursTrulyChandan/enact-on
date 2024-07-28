@@ -11,7 +11,7 @@ const Home = () => {
     <div className=''>
       <Banner />
 
-      <div className='flex flex-col items-end justify-center pl-20'>
+      <div className='flex flex-col items-end justify-center'>
         <Products />
         <Offer />
         <Subscribe />

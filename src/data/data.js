@@ -5,6 +5,7 @@ import ellipse8 from "../assets/Ellipse8.png"
 import shipping from "../assets/Vector (2).png"
 import customer from "../assets/Vector (1).png"
 import guarantee from "../assets/Vector.png"
+import offerBg from "../assets/Rectangle7.png"
 
 export const products = [
     {
@@ -44,6 +45,26 @@ export const products = [
         newPrice: "$9.00",
         img: ellipse8
     },
+]
+
+export const offerData = [
+    {
+        img: offerBg,
+        discount: "20",
+        couponCode: "Chef20"
+    },{
+        img: offerBg,
+        discount: "30",
+        couponCode: "Chef30"
+    },{
+        img: offerBg,
+        discount: "40",
+        couponCode: "Chef40"
+    },{
+        img: offerBg,
+        discount: "50",
+        couponCode: "Chef50"
+    }
 ]
 
 export const footerData = [
